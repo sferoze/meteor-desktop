@@ -2,7 +2,7 @@
   "name": "meteor-desktop",
   "version": "1.7.0",
   "bin": {
-    "meteor-desktop": "lib/bin/cli.js"
+    "meteor-desktop": "./lib/bin/cli.js"
   },
   "engines": {
     "node": ">=4.0.0"
