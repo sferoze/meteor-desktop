@@ -1,6 +1,6 @@
 {
   "name": "meteor-desktop",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "bin": {
     "meteor-desktop": "dist/bin/cli.js"
   },
@@ -81,7 +81,7 @@
     "commander": "2.17.1",
     "cross-spawn": "5.0.1",
     "del": "2.2.2",
-    "electron": "2.0.10",
+    "electron": "3.0.0",
     "electron-builder": "20.28.4",
     "app-builder-lib": "20.28.4",
     "electron-builder-squirrel-windows": "20.28.3",
